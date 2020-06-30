@@ -52,4 +52,4 @@ Usage
 To compile the program :
 
 make
-make fclean
+./my_world
